@@ -8485,6 +8485,7 @@ dependencies = [
  "anyhow",
  "async-trait",
  "client",
+ "clock",
  "collections",
  "env_logger",
  "fs",
